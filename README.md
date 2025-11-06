@@ -2,6 +2,7 @@
 
 ## Data Dictionary
 
+### **Spotify Tracks Dataset**
 - `track_id`: The Spotify ID for the track
 - `artists`: The artists' names who performed the track. If there is more than one artist, they are separated by a ;
 - `album_name`: The album name in which the track appears
@@ -22,3 +23,6 @@
 - `tempo`: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration
 - `time_signature`: An estimated time signature. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of 3/4, to 7/4.
 - `track_genre`: The genre in which the track belongs
+
+### **Hot 100 Billboard Charts Data**
+- See data dictionary here: <https://github.com/HipsterVizNinja/random-data/tree/main/Music/hot-100#billboard-hot-100>
