@@ -26,3 +26,4 @@
 
 ### **Hot 100 Billboard Charts Data**
 - See data dictionary here: <https://github.com/HipsterVizNinja/random-data/tree/main/Music/hot-100#billboard-hot-100>
+- An additional variable, `primary_genre`, identifies the main genre of each song, derived by applying regular expression classification to Spotify’s genre labels.
