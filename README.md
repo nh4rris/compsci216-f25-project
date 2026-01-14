@@ -1,5 +1,9 @@
 # **What Makes a Song Popular? Analyzing Spotify and Billboard Charts Data**
 
+## Project Results & Presentation
+- See the team presentation of project results [here](https://youtu.be/fOAWS5D-j1s).
+- See the project writeup [here](https://docs.google.com/document/d/1tFe20_nd5mLAVk-ZKsdHZeVzwyH7ds9YC7fgLe6Sij0/edit?usp=sharing).
+
 ## Data Dictionary
 
 ### **Spotify Tracks Dataset**
